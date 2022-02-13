@@ -2,10 +2,9 @@
 
 Automation/Monitoring Kit
 
-This is code for Automation Portal that executes jobs by Systems Center Orchestrator
-This can be hooked to perform automation/recovery actions from custom monitoring  scripts and Systems Center Operations Mamager
+This is code for Automation Kit that executes automation jobs or recovery actions with Systems Center Orchestrator from alarms and alerts risen by custom haalth checks with Powershell scriptsor from Systems Center Operations Mamager.
 The powershell scrripts are for monitors and automated actions required by alerts.
-Finally the product can hook to AD and SCCM and pull patch schedules and force SCCM actions.
+Finally the product can hook to AD and SCCM and pull patch schedules and force System Center Configuration Manager actions.
 
 enjoy
 
